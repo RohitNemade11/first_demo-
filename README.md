@@ -1,2 +1,4 @@
 # first_demo-
-this is my firs git repository
+this is my first git repository.
+
+Author - Rhoit Nemade
